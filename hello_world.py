@@ -1,2 +1,3 @@
 print("Hello world!")
-print("Hello once again")
+<line from main>
+<line from feature branch>
